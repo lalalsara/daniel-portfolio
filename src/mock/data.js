@@ -17,11 +17,11 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
-  paragraphOne: "Likes words. Sometimes sentences. Paragraphs - that's the limit.",
+  img: 'daniel.jpg',
+  paragraphOne: "I like words. Sometimes sentences. Paragraphs - that's the limit.",
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'resume', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -38,7 +38,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'project1.JPG',
     title: 'A text I wrote',
     info: 'This is another example of an awesome thing I did.',
     info2:
@@ -48,7 +48,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'project2.JPG',
     title: 'Some words put together - by me',
     info: 'Third example! Incredible.',
     info2:
