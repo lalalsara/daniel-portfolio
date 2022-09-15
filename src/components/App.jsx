@@ -38,11 +38,12 @@ import React from 'react';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style="margin-top:200px;">
       <header className="App-header">
-        <p>
+        <h1>
           Daniel Stenmark - Copywriter
-        </p>
+        </h1>
+        <p><a href="https://www.linkedin.com/in/daniel-stenmark-2a4903170">Reach out</a></p>
       </header>
     </div>
   );
