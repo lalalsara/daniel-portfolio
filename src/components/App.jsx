@@ -38,14 +38,14 @@ import React from 'react';
 
 function App() {
   return (
-    <div className="App" style="margin-top:200px;">
-      <header>
-        <h1>
+    <div className="App">
+      <header className="App-header">
+        <p>
           Daniel Stenmark - Copywriter
-        </h1>
+        </p>
       </header>
-      <a href="https://www.linkedin.com/in/daniel-stenmark-2a4903170">Reach out</a>
     </div>
   );
 }
+
 export default App;
