@@ -39,12 +39,12 @@ import React from 'react';
 function App() {
   return (
     <div className="App" style="margin-top:200px;">
-      <header className="App-header">
+      <header>
         <h1>
           Daniel Stenmark - Copywriter
         </h1>
-        <p><a href="https://www.linkedin.com/in/daniel-stenmark-2a4903170">Reach out</a></p>
       </header>
+      <a href="https://www.linkedin.com/in/daniel-stenmark-2a4903170">Reach out</a>
     </div>
   );
 }
